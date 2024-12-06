@@ -31,7 +31,7 @@ Este projeto é um sistema de agendamento online desenvolvido para barbearias, p
 ### Instalação
 
 1. Clone o repositório:
-git clone https://github.com/renanvamo/barbershop.git
+git clone https://github.com/renanvamo/barbearia.git
 cd [nome-do-repositorio]
 
 2. Crie e ative um ambiente virtual (opcional):
